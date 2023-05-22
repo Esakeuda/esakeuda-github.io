@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\bin\Debug\net7.0\esakeuda2-github.io.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\bin\Debug\net7.0\esakeuda2-github.io.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\bin\Debug\net7.0\esakeuda2-github.io.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\bin\Debug\net7.0\esakeuda2-github.io.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\bin\Debug\net7.0\esakeuda2-github.io.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\refint\esakeuda2-github.io.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\esakeuda2-github.io.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\obj\Debug\net7.0\ref\esakeuda2-github.io.dll
