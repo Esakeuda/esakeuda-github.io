@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\bin\Debug\net7.0\Tehtävä19.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\bin\Debug\net7.0\Tehtävä19.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\bin\Debug\net7.0\Tehtävä19.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\bin\Debug\net7.0\Tehtävä19.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\bin\Debug\net7.0\Tehtävä19.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\refint\Tehtävä19.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\Tehtävä19.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\esakeuda2-github.io\Tehtävä19\obj\Debug\net7.0\ref\Tehtävä19.dll
