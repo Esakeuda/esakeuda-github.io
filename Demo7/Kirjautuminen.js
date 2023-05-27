@@ -8,5 +8,5 @@ function onkoKirjautunut(){
 }
 
 function kirjaudu(){
-    localStorage.setItem("nim" , document.getElementById("nimi").value);
+    localStorage.setItem("nimi", document.getElementById("nimi").value);
 }
