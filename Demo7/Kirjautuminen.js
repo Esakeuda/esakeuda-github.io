@@ -6,3 +6,7 @@ function onkoKirjautunut()[
         document.getElementById("tervetuloa_teksti").textContent += "Esa";
     )
 ]
+
+function kirjaudu()[
+    
+]
