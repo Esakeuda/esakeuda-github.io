@@ -8,5 +8,5 @@ function onkoKirjautunut()[
 ]
 
 function kirjaudu()[
-    
+    localStorage.setItem("nimi", "Esa");
 ]
