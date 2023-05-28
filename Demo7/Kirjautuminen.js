@@ -6,3 +6,6 @@ function onkoKirjautunut() {
     document.getElementById("tervetulo_teksti").textContent += "Esa!";
   }
 }
+function kirjaudu(){
+
+}
