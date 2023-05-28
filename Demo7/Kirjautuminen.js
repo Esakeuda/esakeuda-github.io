@@ -7,6 +7,5 @@ function onkoKirjautunut() {
   }
 }
 function kirjaudu(){
-  localStorage.setItem("nimi" , "Esa");
-
+  localStorage.setItem("nimi", document.getElementById("nimi").value);
 }
