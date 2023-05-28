@@ -15,8 +15,17 @@ Tooplate 2122 Nano Folio
 https://www.tooplate.com/view/2122-nano-folio
 
 -->
+<meta charset="UTF-8" />
+  <title>demo7</title>
+  <script type="text/javascript" language="javascript" src="Kirjautuminen.js"></script>
 </head>
 <body>
+	<p id="tervetulo_teksti">Tervetuloa</p>
+  <form id="kirjautumis_lomake">
+    <input id="nimi" type="text" placeholder="Syötä nimesi" value="" />
+    <input id="kirjaudu_nappi" type="submit" value="Kirjaudu sisään" onclick="kirjaudu()" />
+  </form>
+  <button id="kirjaudu_ulos_nappi" onclick="kirjauduUlos()" style="display: none;">Kirjaudu ulos</button>
 	<div class="tm-container-fluid">
 		<section class="tm-site-header tm-flex-center tm-mb-50 tm-bgcolor-1 tm-border-rounded">
 			<i class="fas fa-heart fa-3x"></i>
