@@ -37,7 +37,10 @@
 
 <body>
     <p id="tervetulo_teksti">Tervetuloa</p>
-  
+  <form id="kirjautumis_lomake">
+    <input id="nimi" type="text" placeholder="Syötä nimesi" value="" />
+    <input id="kirjaudu_nappi" type="submit" value="Kirjaudu sisään" onclick="kirjaudu()" />
+  </form>
   <button id="kirjaudu_ulos_nappi" onclick="kirjauduUlos()" style="display: none;">Kirjaudu ulos</button>
   
     <!-- Spinner Start -->
@@ -72,11 +75,6 @@
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-linkedin-in"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
-                   <div form id="kirjautumis_lomake">
-                        <input id="nimi" type="text" placeholder="Syötä nimesi" value="" />
-                        <input id="kirjaudu_nappi" type="submit" value="Kirjaudu sisään" onclick="kirjaudu()" />
-                      </form>
-                      </div>
                 </div>
             </div>
         </div>
