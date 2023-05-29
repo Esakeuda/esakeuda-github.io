@@ -36,6 +36,9 @@
 </head>
 
 <body>
+  
+  
+  
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -101,6 +104,7 @@
                 <form id="kirjautumis_lomake">
                     <input id="nimi" type="text" placeholder="Syötä nimesi" value="" />
                     <input id="kirjaudu_nappi" type="submit" value="Kirjaudu sisään" onclick="kirjaudu()" />
+                    <button id="kirjaudu_ulos_nappi" onclick="kirjauduUlos()" style="display: none;">Kirjaudu ulos</button>
                   </form>
             </div>
             <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a>
@@ -218,7 +222,7 @@
                 </div>
                 <div class="col-lg-6">
                     <h1 id="tervetulo_teksti">Tervetuloa</h1>
-                    <h6 class="text-primary text-uppercase">// Meistä //</h6>
+                    <h6 class="text-primary text-uppercase">// About Us //</h6>
                     <h1 class="mb-4"><span class="text-primary">CarServ</span> "Luotettava valinta autosi huoltoon."</h1>
                     <p class="mb-4">"Tilapäinen haaste autonhuollossa, mutta ammattitaito ja omistautuminen ovat keskeisessä roolissa. Tarvitaan oikeudenmukaisuutta ja laaja-alaista osaamista, jotta autosi huolto sujuu sujuvasti ja vaivattomasti. Luota ammattilaisiin, jotka pitävät huolen autosi kunnosta ja turvallisuudesta."</p>
                     <div class="row g-4 mb-3 pb-3">
