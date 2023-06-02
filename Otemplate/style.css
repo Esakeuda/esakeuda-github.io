@@ -16,4 +16,6 @@ body{
     justify-content: center;
     /* "min-height" ominaisuutta voi käyttää erityisesti silloin, kun haluat varmistaa, että elementti on vähintään tietyssä korkeudessa, esimerkiksi että sisältö ei puristu liian pieneksi tietyissä näkymissä tai näytöillä. */
     min-height: 100vh;
+    overflow: hidden;
+    /* "overflow: hidden" -ominaisuutta käytetään usein silloin, kun halutaan luoda rajoitettu alue elementille ja varmistaa, että sisältö pysyy sisällä rajojen, vaikka se ylittäisi sen koon. */
 }
