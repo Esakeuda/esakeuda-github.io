@@ -8,8 +8,12 @@ body{
     font-family: "Roboto", sans-serif;
     margin: 0;
     display:flex;
+    # Jotta teksti olisi päällekäin
     flex-direction: column;
+    # jotta teksti sijoittuu sivun keskelle ( teksti sijoittuu sivun ylös keskeelle)
     align-items: center;
+    # Kun käytät "justify-content" -ominaisuutta joustavalle laatikolle, voit hallita sisältävien elementtien sijoittumista vaakasuunnassa
     justify-content: center;
+    # "min-height" ominaisuutta voi käyttää erityisesti silloin, kun haluat varmistaa, että elementti on vähintään tietyssä korkeudessa, esimerkiksi että sisältö ei puristu liian pieneksi tietyissä näkymissä tai näytöillä.
     min-height: 100vh;
 }
